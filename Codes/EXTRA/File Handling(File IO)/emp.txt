@@ -1,0 +1,3 @@
+Roll = 21
+Name = Kamal
+Mark = 200
